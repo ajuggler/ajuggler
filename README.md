@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajuggler (Antonio Hernandez)
-- 👀 I’m interested in Haskell, Plutus, Cirq.
+- 👀 I’m interested in Haskell, Plutus, Cirq, Qiskit.
 - 🌱 I’m currently learning Plutus, Marlowe.
 - 💞️ I’m looking to collaborate on smart contracts, quantum computation.
 - 📫 How to reach me https://antoniohernandez.mx
