@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajuggler (Antonio Hernandez)
 - 👀 I’m interested in Haskell, Plutus, Cirq, Qiskit, Q#.
 - 🌱 Successfully completed the Plutus Pioneer Program (third cohort).
-- Currently part of the Marlowe Pioneer Program (first cohort).  Discord username:  a_juggler#5024 
+- 🌱 Successfully completed the Marlowe Pioneer Program (first cohort).
 - 💞️ I’m looking to collaborate on smart contracts written in Plutus/Marlowe.
 - Other interest:  quantum computation.  Currently reading T. Altenkirch et. al.'s paper "The Quantum IO Monad".
 - 📫 How to reach me https://antoniohernandez.mx
