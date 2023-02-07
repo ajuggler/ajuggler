@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ajuggler (Antonio Hernandez)
-- 👀 I’m interested in Haskell, Plutus, Cirq, Qiskit, Q#.
+- 👀 My Portfolio:  https://antoniohernandez.mx/portfolio.html
+- 🌱 I’m interested in Haskell, Plutus, Cirq, Qiskit, Q#.
 - 🌱 Successfully completed the Plutus Pioneer Program (third cohort).
 - 🌱 Successfully completed the Marlowe Pioneer Program (first cohort).
 - 💞️ I’m looking to collaborate on smart contracts written in Plutus/Marlowe.
