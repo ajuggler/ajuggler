@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ajuggler (Antonio Hernandez)
-- 👀 My Portfolio:  https://antoniohernandez.mx/portfolio.html
-- 🌱 I’m interested in Haskell, Plutus, Cirq, Qiskit, Q#.
+- 👋 Hi, I’m @ajuggler (Antonio Hernández-Garduño)
+- 💼 **My Portfolio**:  https://antoniohernandez.mx/portfolio.html
+- 🌱 Languages:  Haskell, JavaScript/TypeScript, Plutus, Plutarch, Helios, Cirq, Qiskit, Q#.
 - 🌱 Successfully completed the Plutus Pioneer Program (third cohort).
 - 🌱 Successfully completed the Marlowe Pioneer Program (first cohort).
-- 💞️ I’m looking to collaborate on smart contracts written in Plutus/Marlowe.
-- Other interest:  quantum computation.  Currently reading T. Altenkirch et. al.'s paper "The Quantum IO Monad".
+- ![codewars logo](https://www.codewars.com/users/ajuggler/badges/micro) My [*CodeWars*](https://www.codewars.com/users/ajuggler) page.
+- 📖 Other interest:  quantum computation.  Currently reading T. Altenkirch et. al.'s paper "The Quantum IO Monad".
 - 📫 How to reach me https://antoniohernandez.mx
 
 <!---
