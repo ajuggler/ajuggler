@@ -3,7 +3,7 @@
 - 🌱 Languages:  Haskell, JavaScript/TypeScript, Plutus, Plutarch, Helios, Cirq, Qiskit, Q#.
 - 🌱 Successfully completed the Plutus Pioneer Program (third cohort).
 - 🌱 Successfully completed the Marlowe Pioneer Program (first cohort).
-- ![codewars logo](https://www.codewars.com/users/ajuggler/badges/micro) My [*CodeWars*](https://www.codewars.com/users/ajuggler) page.
+- ![codewars logo](https://www.codewars.com/users/ajuggler/badges/micro) My [*CodeWars* ranking](https://www.codewars.com/users/ajuggler) page.
 - 📖 Other interest:  quantum computation.  Currently reading T. Altenkirch et. al.'s paper "The Quantum IO Monad".
 - 📫 How to reach me https://antoniohernandez.mx
 
